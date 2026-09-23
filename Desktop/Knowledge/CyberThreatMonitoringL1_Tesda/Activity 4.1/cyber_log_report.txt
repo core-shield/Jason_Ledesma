@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: Jason Ledesma
+Handle: Core-shield
+Start Time: 2026-09-22 20:42:04.390004
+End Time: 2026-09-22 20:45:45.995733
+Duration (minutes): 3.69
+Score: 5/10
+Rating: INTERMEDIATE
+---- Threat Logs ----
+Threat: Telnet Credential Theft
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.20 on port
+-------------------
+Threat: FTP Credential Sniffing
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.76 on port
+-------------------
+Threat: SMTP Phishing Campaign
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: RDP Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.233 on port
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: SMB Ransomware Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: HTTP Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: Proxy Web Exploit
+WARNING: Multiple authentication failures for service
+ALERT: Failed login attempt detected from 192.168.1.195 on port
+-------------------
+Threat: POP3 Credential Sniffing
+WARNING: Multiple authentication failures for service
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: HTTPS Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.122 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+===================================
